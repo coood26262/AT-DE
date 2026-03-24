@@ -1,0 +1,9 @@
+IMPORTANT: ADD YOUR PLAYFUL REWARDS LOGO HERE
+
+To add your logo:
+1. Copy your "image (15).png" logo file to this directory: /home/user/playful/public/
+2. Rename it to: logo.png
+3. The navbar will automatically display it
+
+Current navbar is using logo.svg as a fallback.
+Replace with your actual Playful Rewards logo PNG file.
